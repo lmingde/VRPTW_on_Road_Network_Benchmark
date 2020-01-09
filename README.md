@@ -1,0 +1,1 @@
+This a bechmark for VRPTW on road network which extract raod network from Nanshen district Shenzhen. The road network contain 8214 nodes and 18558 edges, and each instances has 100 customers.
